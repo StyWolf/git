@@ -5,3 +5,6 @@ Git is free software distributed under the GPL.
 Git has a mutable indexi called stage.
 Git tracks changes  
 Creating a new branch test dev.
+Creating a new branch is quick and simple.
+
+
